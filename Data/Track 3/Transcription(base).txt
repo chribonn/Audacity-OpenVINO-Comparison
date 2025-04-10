@@ -1,0 +1,51 @@
+0.000000	6.720000	 The Internet Archive is an American nonprofit organization founded in 1996 by Brewster
+6.720000	11.780000	 Kala that runs a digital library website, archive.org.
+11.780000	17.040000	 It provides free access to collections of digitized media including websites, software
+17.040000	22.720000	 applications, music, audiovisual, and print materials.
+22.720000	26.720000	 The archive also advocates a free and open internet.
+26.720000	31.200000	 This mission is committing to provide universal access to all knowledge.
+31.200000	35.760000	 The internet archive allows the public to upload and download digital material to its
+35.760000	41.440000	 data cluster, but the bulk of its data is collected automatically by its web crawlers,
+41.440000	45.400000	 which work to preserve as much of the public web as possible.
+45.400000	51.680000	 Its web archive, the Wayback Machine, contains hundreds of billions of web captures.
+51.680000	57.280000	 The archive also oversees numerous book digitization projects, collectively one of the world's
+57.280000	60.400000	 largest book digitization efforts.
+60.400000	61.760000	 History
+61.760000	67.840000	 Headquarters in building 116 of the Presidio of San Francisco in 2008.
+67.840000	73.640000	 Brewster Kala founded the archive in May 1996, around the same time that he began the
+73.640000	77.320000	 for-profit web crawling company Alexa Internet.
+77.320000	85.600000	 The earliest known archive page on the site was saved on May 10, 1996, at 242PMUTC,
+85.600000	88.440000	 742AMPDT.
+88.440000	93.640000	 By October of that year, the internet archive had begun to archive and preserve the worldwide
+93.640000	95.920000	 web in large amounts.
+95.920000	102.240000	 The archived content became more easily available to the general public in 2001, through the Wayback
+102.240000	103.760000	 Machine.
+103.760000	109.920000	 On late 1999, the archive expanded its collections beyond the web archive, beginning with the
+109.920000	111.640000	 prelinger archives.
+111.640000	119.200000	 Now, the internet archive includes texts, audio, moving images, and software.
+119.200000	124.880000	 It hosts a number of other projects, the NASA Images Archive, the Contract Crawling Service
+124.880000	131.400000	 Archive it, and the WikiEdit of a library catalog and book information site open library.
+131.400000	136.520000	 Soon after that, the archive began working to provide specialized services relating to
+136.520000	141.920000	 the information access needs of the print disabled, publicly accessible books were made available
+141.920000	147.880000	 in a protected digital accessible information system, Daisy, Format.
+147.880000	153.440000	 According to its website, most societies place importance on preserving artifacts of their
+153.440000	155.880000	 culture and heritage.
+155.880000	161.440000	 Without such artifacts, civilization has no memory and no mechanism to learn from its successes
+161.440000	163.280000	 and failures.
+163.280000	167.800000	 Our culture now produces more and more artifacts in digital form.
+167.800000	172.320000	 The archive's mission is to help preserve those artifacts and create an internet library
+172.320000	176.120000	 for researchers, historians, and scholars.
+176.120000	181.720000	 In August 2012, the archive announced that it had added BitTorrent to its file download
+181.720000	188.320000	 options for more than 1.3 million existing files, and all newly uploaded files.
+188.320000	193.320000	 This method is the fastest means of downloading media from the archive, as files are served
+193.320000	198.400000	 from two archive data centers, in addition to other Torrent clients which have downloaded
+198.400000	201.200000	 and continue to serve the files.
+201.200000	206.240000	 The wayback machine is fighting for universal access to quality information.
+206.240000	211.980000	 The internet archive, which runs this project, relies on online donations averaging about
+211.980000	215.480000	 $15 to help us keep the record straight.
+215.480000	221.120000	 We'd be deeply grateful if you'd join the one in a thousand users that support us financially.
+221.120000	225.800000	 We understand that not everyone can donate right now, but if you can afford to contribute
+225.800000	229.880000	 this Friday, we promise it will be put to good use.
+229.880000	234.360000	 Our resources are crucial for knowledge lovers everywhere so if you find all these bits
+234.360000	236.740000	 and bites useful, please pitch in.
+236.740000	237.958063	 [BLANK_AUDIO]

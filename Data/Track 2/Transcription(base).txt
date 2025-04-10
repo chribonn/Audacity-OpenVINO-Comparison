@@ -1,0 +1,4 @@
+0.000000	9.480000	 Mary had a little arm, little arm, little arm, Mary had a little arm, its fleece was white
+9.480000	18.200000	 as snow, and everywhere that Mary went, Mary went, Mary went, and everywhere that Mary
+18.200000	21.160000	 went the lamb was sure to go.
+21.160000	22.755500	 [BLANK_AUDIO]

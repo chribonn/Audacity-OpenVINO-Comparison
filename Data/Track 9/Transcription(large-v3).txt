@@ -1,0 +1,18 @@
+0.000000	6.040000	 Once there was a young rat named Arthur who could never make up his mind.
+6.040000	10.700000	 Whenever his friends asked him if he would like to go out with them, he would only answer,
+10.700000	16.400000	 I don't know. He wouldn't say yes or no either. He could never learn to make a choice.
+16.400000	21.800000	 His aunt Helen said to him, no one is going to care for you if you carry on like this.
+21.800000	27.180000	 One rainy day the rats heard a great noise in the loft where the pine rafters were all rotten.
+28.060000	33.620000	 At last the joist gave way and fell to the ground. The walls shook and all the rat's hair stood on
+33.620000	39.480000	 end with fear and horror. This won't do, said the captain. I'll send out scouts to search for a new
+39.480000	45.420000	 home. Three hours later the seven scouts came back and said, we have found just what we wanted,
+45.420000	51.080000	 a stone house where there is room and good food for us all. There is a kindly horse named Nelly,
+51.080000	57.920000	 a cow, a calf and a garden with an elm tree. Just then the old rat saw Arthur. Stop,
+57.920000	65.000000	 he ordered coarsely. Are you coming? Of course, I suppose I ought, Arthur sighed. But the roof
+65.000000	71.460000	 may not come down yet. Well, said the angry old rat, we can't wait all day for you. Right about
+71.460000	78.020000	 face, march, and they went off. Arthur stood and watched them hurry away. The idea of an
+78.020000	83.420000	 immediate decision was too much for him. Why do they have to go today, he said calmly to himself.
+83.420000	87.120000	 That night there was a great crash that shook the earth.
+87.120000	90.360000	 In the foggy morning, some men rode up and looked at the ruins.
+90.360000	97.220000	 One of them moved aboard and saw a young rat lying on his side, quite dead, half in and half out of his hole.
+97.220000	113.940000	 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20.

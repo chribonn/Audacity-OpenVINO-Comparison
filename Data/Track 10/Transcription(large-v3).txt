@@ -1,0 +1,36 @@
+0.000000	10.040000	 This recording was made on 11th October 1962 by A.K. Srivastava for the Phonetics Department.
+10.040000	13.340000	 The story of Arthur the Rat
+13.340000	19.440000	 There was once a young rat named Arthur who would never take the trouble to make up his mind.
+19.440000	25.460000	 Whenever his friends asked him if he would like to go out with them, he would only answer, I don't know.
+25.460000	28.540000	 He wouldn't say yes and he wouldn't say no either.
+29.340000	31.140000	 He could never learn to make a choice.
+31.140000	36.960000	 His aunt Helen said to him, no one will ever care for you if you carry on like this.
+36.960000	39.800000	 You have no more mind than a blade of grass.
+39.800000	42.600000	 Arthur looked wise but said nothing.
+42.600000	47.580000	 One rainy day, the rats heard a great noise in the loft where they lived.
+47.580000	54.580000	 The pine rafters were all rotten and at last one of the joists had given way and fallen to the ground.
+54.580000	58.880000	 The walls shook and all the rats' hair,
+59.180000	61.180000	 which stood on end with fear and horror.
+61.180000	64.100000	 Dysphonto said their old rat was chief.
+64.100000	67.260000	 I'll send out scouts to search for a new home.
+67.260000	71.360000	 Three hours later, the seven scouts came back and said,
+71.360000	74.720000	 we have found a stone house which is just what we wanted.
+74.720000	77.940000	 There is room and good food for us all.
+77.940000	84.060000	 There is a kindly horse named Nelly, a cow, a calf and a garden and an elm tree.
+84.060000	87.560000	 Just then the old rat caught sight of young Arthur.
+87.560000	88.940000	 Are you coming with us?
+89.320000	90.320000	 Nelly asked.
+90.320000	91.680000	 I don't know, Arthur sighed.
+91.680000	93.920000	 The roof may not come down just yet.
+93.920000	96.360000	 Well, said the old rat angrily.
+96.360000	99.260000	 We can't wait all day for you to make up your mind.
+99.260000	102.200000	 Right about face, march, and they went off.
+102.200000	105.480000	 Arthur stood and watched the other rats hurry away.
+105.480000	110.400000	 The idea of an immediate decision was too much for him.
+110.400000	115.440000	 I'll go back to my hole for a bit, he said to himself, just to make up my mind.
+115.440000	118.840000	 That night there was a great crash that shook the earth.
+119.120000	120.900000	 And down came the whole roof.
+120.900000	124.000000	 Next day someone rode up and looked at the ruins.
+124.000000	128.600000	 One of them moved aboard, and under it they saw a young rat lying on his side,
+128.600000	132.140000	 quite dead, half in and half out of his hole.
+132.140000	133.240000	 Thank you.

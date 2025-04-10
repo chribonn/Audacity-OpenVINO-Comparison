@@ -1,0 +1,33 @@
+Yo, Leo.  Great to back with you again for Episode 790, our last episode of October 2020.  And those who are watching the video will notice that I'm coming to everyone from our alternate location.  I was working on the podcast, like a couple hours to go, and all of my connectivity disappeared.  Later, when I got over here, I logged onto Cox, which is my cable modem provider, and I got a kick out of their notice.
+
+They said:  "We've noticed a temporary outage related to your Internet, TV, and phone service."  So first of all, they noticed a temporary outage?  They noticed an outage which they hope is temporary.  And of course I'm hoping that, too.  And they said the estimated time to repair, 4:13 p.m.  So of course we record this between 1:30 and 2:00 typically.  We're pretty much wrapping up around that time.  So I thought, I think maybe I need to set up the alternate location.  So I did so.
+
+LEO:  That's twice now in like a month or something; right?
+
+STEVE:  Yeah, yeah.  And of course, thanks to the nature of broadband in the U.S., I have no alternative provider.  I mean, they're nominally pretty good.  But again, as you said, Leo, it's getting to be like, okay, wait a minute.  On the other hand, we did go for 15 years without any trouble, although remember the old days with two T1s?  
+
+LEO:  Oh, yeah, yeah, yeah.
+
+STEVE:  Those were the days.
+
+LEO:  Two T1s that gave you a fraction of the speed you're getting with a single cable connection.
+
+STEVE:  Yes, exactly, exactly.  The only thing it really had going for it was it had a lot of reliability.
+
+LEO:  It was reliable, that's right.
+
+STEVE:  Because, yeah, back then it was twisted pair, and they were so expensive that it was a high priority to keep them up and running.
+
+LEO:  Yeah, 1.44 megabits.
+
+STEVE:  Uh-huh.
+
+LEO:  Ridiculous.  Why did we think that was a lot?
+
+STEVE:  Yeah.  And I remember, too, when I initially, like back in the day when I was getting it, I would mention that to people.  And this is when of course people had dial-up, and they were like, you have a T1?  Oh.  It's like, okay, yeah, yeah.  But fortunately technology moves on.
+
+We've got a bunch of stuff, speaking of technology moving on, to talk about.  There's a recently patched zero-day which hit Chrome, only the third in a year.  Fortunately Chrome doesn't have many.  But when it does, they tend to be significant because of course, as we know, it's the majority browser now on the Internet.  There's also a nice new feature that Chrome is offering we'll talk about.  We're going to take a look at site isolation, which is coming soon to Firefox, and Microsoft's announcement of Edge for Linux, which, okay, we'll talk about that.
+
+We've got some movement in the further deprecation of IE, of course, Internet Explorer; and a potentially massive SQL injection attack that was recently dodged by more than one million WordPress sites.  So here again, WordPress, we just keep talking about this.  And as everyone knows, I shut down mine because it's like, no.  I'm just crazy to do that.  And despite the fact that this was automatically remediated, some admins of their own sites complained about the fact that they were just saved.  Anyway, we'll talk about that.
+
+We've got some miscellany, a bit of closing-the-loop feedback, and an update on where I stand with SpinRite.  And then we're going to end by looking at the NSA's recently published list of the top 25 network vulnerabilities currently in use by malicious Chinese state actors to attack assets in the U.S.

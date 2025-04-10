@@ -1,0 +1,68 @@
+0.000000	8.800000	 Yo, Leo.  Great to back with you again for Episode 790 Wow our last episode of October 2020.
+8.800000	9.460000	 Wow.
+9.460000	17.580000	 And those who are watching the video will notice that I'm, eh, I'm coming to everyone from our alternate location.
+17.580000	29.680000	 Em, I gotta, I was working on the podcast, like a couple hours to go, and all of my connectivity disappeared.
+29.680000	39.100000	 Em, later, when I got over here, I logged onto Cox, which is my cable modem provider, and I, I got a kick out of their notice.
+39.100000	46.080000	 They said:  "We've noticed - ho boy - a temporary outage related to your Internet, TV, and phone service."
+46.080000	49.480000	 So first of all, they noticed a temporary outage?
+49.480000	55.380000	 They, they noticed an outage which they hope is temporary.  And of course I'm hoping that, too.
+55.380000	59.660000	 And they said the estimated time to repair, 4:13 p.m.
+59.660000	64.520000	 So of course we record this between 1:30 and 2:00 typically.
+64.520000	67.320000	 We're pretty much wrapping up around that time.
+67.320000	73.640000	 So I thought, eh, I think maybe I need to set up the alternate location.
+73.640000	75.300000	 So I did so.
+75.300000	77.280000	 That's twice now in like a month or something; right?
+77.280000	79.460000	 Yeah, -ho man - yeah.
+79.460000	85.940000	 And of course, thanks to the nature of broadband in the U.S., I have no alternative provider.
+85.940000	89.040000	 You know, I mean, they're, they're nominally pretty good.
+89.040000	89.580000	 But again,
+89.580000	92.020000	 as you said, Leo, it's getting to be like, okay, wait a minute.
+92.020000	95.620000	 You know, on the other hand, we did go for 15 years without any trouble,
+95.620000	98.920000	 although remember the old days with two T1s? 
+98.920000	100.260000	 Oh, yeah, yeah, yeah, yeah.
+100.260000	102.960000	 Those were the days.
+102.960000	108.200000	 Two T1s that gave you a fraction of the speed you're getting with a single cable connection.
+108.200000	108.580000	 Yes,
+108.580000	109.680000	 exactly,
+109.680000	110.640000	 exactly.
+110.640000	113.800000	 The only thing it really had going for it was it had a lot of reliability. Reliable.
+113.800000	117.340000	 Because, yeah, back then it was twisted pair,
+117.340000	119.260000	 and they were so expensive
+119.260000	122.940000	 that it was a high priority to keep them up and running.
+122.940000	125.800000	 Yeah, 1.44 megabits.
+125.800000	126.920000	 Uh-huh.
+126.920000	127.860000	 Ridiculous.
+127.860000	129.260000	 Why did we think that was a lot?
+129.260000	130.360000	 Yeah.
+130.360000	135.360000	 And I remember, too, when I initially, was like back in the day when I was getting it,
+135.360000	137.280000	 I would mention that to people.
+137.280000	139.420000	 And this is when of course people had dial-up,
+139.420000	143.060000	 and they were like, you have a T1?
+143.060000	144.120000	 Oh.
+144.120000	145.980000	 It's like, okay,
+145.980000	146.860000	 yeah,
+146.860000	148.980000	 yeah.
+148.980000	150.440000	 But fortunately technology moves on.
+150.440000	152.460000	 We've got a bunch of stuff,
+152.460000	160.140000	 speaking of technology moving on, to talk about.  There's a recently patched zero-day which, eh
+160.140000	164.520000	 hit Chrome, only the third in a year.
+164.520000	166.600000	 Fortunately Chrome doesn't have many.
+166.600000	170.620000	 But when it does, they tend to be significant because of course, as we know, it's the majority
+170.620000	172.180000	 browser now on the Internet.
+172.180000	177.400000	 There's also a nice new feature that Chrome is offering we'll talk about.
+177.400000	178.960000	 We're going to take a look at site isolation,
+178.960000	182.160000	 which is coming soon to Firefox,
+182.160000	189.620000	 and Microsoft's announcement of Edge for Linux, which, okay, we'll talk about that.
+189.620000	196.960000	 We've got some movement in the further deprecation of IE, of course, Internet Explorer; and a
+196.960000	206.260000	 potentially massive SQL injection attack that was recently dodged by more than one million
+206.260000	206.960000	 WordPress sites.
+206.960000	208.320000	 So here again,
+208.560000	210.460000	 WordPress, we just keep talking about this.
+210.460000	218.060000	 And, and as everyone knows, I, I shut down mine because it's like, no.  I'm just crazy to do that.
+218.060000	227.500000	 Em, and despite the fact that this was automatically remediated, some admins of their own sites
+227.500000	230.800000	 complained about the fact that they were just saved.
+230.800000	232.860000	 Anyway, we'll talk about that.
+232.860000	238.460000	 We've got some miscellany, a bit of closing-the-loop feedback, and an update on where I stand with
+238.460000	238.920000	 SpinRite.
+238.920000	247.380000	 And then we're going to end by looking at the NSA's recently published list of the top 25 network
+247.380000	256.580000	 vulnerabilities currently in use by malicious Chinese state actors - ho wow - to attack assets in the U.S.

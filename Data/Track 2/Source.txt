@@ -1,0 +1,2 @@
+0.000000	10.680000	 Mary had a little lamb, little lamb, little lamb. Mary had a little lamb, its fleece was white as snow.
+10.680000	22.755500	 And everywhere that Mary went. Mary went. Mary went. And everywhere that Mary went, the lamb was sure to go.

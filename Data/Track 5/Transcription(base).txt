@@ -1,0 +1,18 @@
+0.000000	19.000000	 Yo Leo, great to be back with you again for episode 790. Wow, our last episode of October 2020. Wow, and those who are watching the video will notice that I'm coming to everyone from our alternate location.
+19.000000	39.000000	 I was working on the podcast a couple hours to go and all of my connectivity disappeared. Later, when I got over here, I logged on to Cox, which is my cable motor provider, and I got a kick out of their notice.
+39.000000	55.000000	 They said, "We've noticed a temporary outage related to your internet, TV, and phone service." So first of all, they noticed a temporary outage, they noticed an outage, which they hope is temporary, and of course, I'm hoping that too.
+55.000000	74.000000	 Then they said, "The estimated time to repair for 13 pm." So of course, we record this between 1.30 and 2. Typically, we're pretty much wrapping up around that time, so I thought, "I think maybe I need to set up the alternate location."
+74.000000	96.000000	 Yeah, and of course, thanks to the nature of broadband in the US, I have no alternative provider. I mean, they're nominally pretty good, but again, as you said, Leo, it's getting to be like, "Okay, wait a minute, all in the other hand, we did go for 15 years without any trouble."
+96.000000	108.000000	 So, the remember, the old days with 2T1s, those were the days. Anyway, 2T1s gave you a fraction of the speed you're getting with a single cable.
+108.000000	123.000000	 Yes, exactly. The only thing I really had going for it was that a lot of reliability, so because back then, it was twisted pair, and they were so expensive that it was a high priority to keep them up and running.
+123.000000	127.000000	 Yeah, 1.44 megabits.
+127.000000	130.000000	 Ridiculous. Why do we think that was a lot?
+130.000000	144.000000	 Yeah, and I remember, too, when I initially was back in the day when I was getting it, I would mention that to people. This is when, of course, people had dial up, and they were like, "You have a T1?"
+144.000000	155.000000	 Yeah, fortunately, technology moves on. We've got a bunch of stuff speaking of technology moving on to talk about.
+155.000000	172.000000	 There's a recently patched zero-day, which hit Chrome only the third in a year. Fortunately, Chrome doesn't have many, but when it does, they tend to be significant, because, of course, as we know, it's the majority browser now on the internet.
+172.000000	177.000000	 There's also a nice new feature that Chrome is offering we'll talk about.
+177.000000	190.000000	 We're going to take a look at site isolation, which is coming soon to Firefox, and Microsoft's announcement of Edge for Linux, which we'll talk about that.
+190.000000	208.000000	 We've got some movement in the further deprecation of IE, of course, Internet Explorer, and a potentially massive SQL injection attack that was recently dodged by more than 1 million WordPress sites.
+208.000000	220.000000	 Again, WordPress, we just keep talking about this, and as everyone knows, I shut down mine, because it's crazy to do that.
+220.000000	231.000000	 Despite the fact that this was automatically remediated, some admins of their own sites complained about the fact that they were just saved.
+231.000000	256.679125	 Anyway, we'll talk about that. We've got some miscellaneous, a bit of closing the loop feedback, and an update on where I stand to spin right, and then we're going to end by looking at the NSA's recently published list of the top 25 network vulnerabilities currently in use by malicious Chinese state actor to attack assets in the US.

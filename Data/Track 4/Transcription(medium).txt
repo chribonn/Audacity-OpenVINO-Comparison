@@ -1,0 +1,45 @@
+0.000000	15.840000	 A NONSENSE ALPHABET by EDWARD LEAR
+15.840000	19.920000	 A NONSENSE ALPHABET by EDWARD LEAR
+19.920000	29.920000	 A A was once an apple pie. Pidey, widey, tidy, pidey, nice inside the apple pie.
+29.920000	35.920000	 B B was once a little bear. Berry, weary, hairy,
+35.920000	44.520000	 berry, takey, carey, little bear. C C was once a little cake. Cakey, bakey,
+44.520000	49.240000	 makey, cakey, takey, cakey, little cake.
+49.240000	55.240000	 D D was once a little doll. Dolly, molly, polly, nolly,
+55.240000	58.520000	 nursey dolly, little doll.
+58.520000	64.200000	 E E was once a little eel. Eelie, wheelie, peely,
+64.200000	68.480000	 eelie, twirly, twirly, little eel.
+68.480000	74.000000	 F F was once a little fish. Fishy, wishy, squishy,
+74.000000	83.120000	 fishy, in a dishy, little fish. G G was once a little goose. Goosy,
+83.120000	88.560000	 moosy, boozy, goosey, waddly, woosy, little goose.
+88.560000	93.520000	 H H was once a little hen. Henny, chenny, tenny,
+93.520000	97.280000	 henny, eggsy, yenny, little hen.
+97.280000	103.520000	 I I was once a bottle of ink. Inky, dinky, thinky, inky,
+103.520000	106.800000	 blacky, minky, bottle of ink.
+106.800000	113.280000	 J J was once a jar of jam. Jammy, mammy, clammy, jammy,
+113.280000	116.960000	 sweety, swammy jar of jam.
+116.960000	124.480000	 K K was once a little kite. Kitey, whitey, flighty, kitey,
+124.480000	131.520000	 out of sighty little kite. L L was once a little lark.
+131.520000	136.720000	 Larky, marky, harky, larky, in the parky little lark.
+136.720000	143.280000	 M M was once a little mouse. Mousy, bousy, sousy, mousy,
+143.280000	150.240000	 in the housey little mouse. N N was once a little needle.
+150.240000	157.120000	 Needly, twidly, threadly, needly, whisky-weedly little needle.
+157.120000	163.280000	 O O was once a little owl. Owly, prowly, howly, owly,
+163.280000	170.720000	 brownie, fowly little owl. P P was once a little pump.
+170.720000	176.640000	 Pumpy, slumpy, flumpy, pumpy, dumpy, thumpy little pump.
+176.640000	183.680000	 Q Q was once a little quail. Quaily, fairly, daily, quaily,
+183.680000	191.680000	 stumpy, taily little quail. R R was once a little rose.
+191.680000	197.840000	 Rosy, posy, nosy, rosy, blowsy, grozy little rose.
+197.840000	204.160000	 S S was once a little shrimp. Shrimpy, nimpy, flimpy,
+204.160000	211.440000	 shrimpy, jumpy, jimpy little shrimp. T T was once a little thrush.
+211.440000	217.600000	 Thrushy, hushy, bashy, thrushy, flitty, flushy little thrush.
+217.600000	223.200000	 U U was once a little urn. Erny, burny, turny, urny,
+223.200000	230.480000	 bubbly, burny little urn. V V was once a little vine.
+230.480000	236.720000	 Viny, whiny, twiny, whiny, twisty, twiny little vine.
+236.720000	243.040000	 W W was once a whale. Whaley, scaly, shaly, whaley,
+243.040000	247.120000	 tumbly, taily, mighty whale.
+247.120000	252.560000	 X X was once a great King Xerxes. Xerxy, perxxy,
+252.560000	258.080000	 turxxy, xerxy, lynxxy, lurxxy, great King Xerxy.
+258.080000	264.880000	 Y Y was once a little u. Udy, feudy, crudy, udy, grody,
+264.880000	272.320000	 grody little u. Z Z was once a piece of zinc.
+272.320000	278.160000	 Tinky, winky, blinky, tinky, tinkly minky piece of zinc.
+278.160000	283.120000	 End of alphabet.

@@ -1,0 +1,22 @@
+0.000000	10.000000	 This recording was made on 11th October 1962 by A. K. S. D. Vastava for the phonetics department.
+10.000000	19.000000	 The story of Arthur the Rat. There was once a young rat named Arthur who would never take the trouble to make up his mind.
+19.000000	25.000000	 Whenever his friends asked him if he would like to go out with them, he would only answer, "I don't know."
+25.000000	31.000000	 He wouldn't say yes and he wouldn't say no either. He could never learn to make a choice.
+31.000000	40.000000	 His aunt Helen said to him, "No one will ever care for you if you carry on like this. You have no more mind than a blade of grass."
+40.000000	43.000000	 Arthur looked wise but said nothing.
+43.000000	48.000000	 One rainy day the rats heard a great noise in the loft where they lived.
+48.000000	55.000000	 The pine rafters were all rotten and at last one of the joys had given way and fallen to the ground.
+55.000000	61.000000	 The wall shook and all the rats' hair stood on end with fear and horror.
+61.000000	68.000000	 This one too said, "The old rat was chief. I'll send out his scouts to search for a new home."
+68.000000	75.000000	 Three hours later the seven scouts came back and said, "We have found a stone house which is just what we wanted.
+75.000000	85.000000	 There's room and good food for us all. There's a kindly horse named Nelly, a cow, a calf and a garden with an elm tree."
+85.000000	90.000000	 Just then the old rat caught sight of young Arthur. "Are you coming with us?" he asked.
+90.000000	94.000000	 "I don't know," Arthur sighed. "The roof may not come down just yet."
+94.000000	99.000000	 "Well," said the old rat angrily, "we can't wait all day for you to make up your mind."
+99.000000	106.000000	 Right about phase, March, and they went off. Arthur stood and watched the other rats hurry away.
+106.000000	110.000000	 The idea of an immediate decision was too much for him.
+110.000000	115.000000	 "I'll go back to my hole for a bit," he said to himself, "just to make up my mind."
+115.000000	121.000000	 That night there was a great crash that shook the earth and down came the whole roof.
+121.000000	124.000000	 Next day some men rode up and looked at the ruins.
+124.000000	132.000000	 One of them moved aboard and under it there saw a young rat lying on his side, quiet dead, half in and half out of his hole.
+132.000000	133.254750	 [BLANK_AUDIO]

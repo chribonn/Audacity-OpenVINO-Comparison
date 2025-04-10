@@ -1,0 +1,22 @@
+0.000000	7.080000	 This recording was made on the 14th October 1965 for the Department of Phonetics by Alan J. Wolfe.
+7.080000	10.660000	 The story of Arthur the Rat
+10.660000	16.480000	 There was once a young rat named Arthur who would never take the trouble to make up his mind.
+16.480000	21.660000	 Whenever his friends asked him if he would like to go out with them, he would only answer,
+21.660000	28.980000	 I don't know. He wouldn't say yes and he wouldn't say no either. He could never learn to make a choice.
+28.980000	58.960000	 His aunt Helen said to him,
+59.500000	65.280000	 This won't do, said the old rat who was chief. I'll send out scouts to search for a new home.
+65.280000	70.260000	 Three hours later, the seven scouts came back and said,
+70.260000	76.940000	 We have found a stone house which is just what we wanted. There is room and good food for us all.
+76.940000	83.580000	 There is a kindly horse named Nellie, a cow, a calf and a garden with an elm tree.
+83.580000	87.380000	 Just then the old rat caught sight of young Arthur.
+87.380000	90.280000	 Are you coming with us? he asked.
+90.280000	95.580000	 I don't know, Arthur sighed. The roof may not come down just yet.
+95.580000	101.220000	 Well, said the old rat angrily, we can't wait all day for you to make up your mind.
+101.220000	106.120000	 Right about face. March. And they went off.
+106.120000	109.880000	 Arthur stood and watched the other rats hurry away.
+109.880000	114.000000	 The idea of an immediate decision was too much for him.
+114.000000	117.360000	 I'll go back to my hole for a bit, he said to himself.
+117.960000	119.440000	 Just to make up my mind.
+119.440000	126.420000	 That night there was a great crash that shook the earth and down came the whole roof.
+126.420000	130.100000	 Next day some men rode up and looked at the ruins.
+130.100000	139.020000	 One of them moved a board and under it they saw a young rat lying on his side, quite dead, half in and half out of his hole.

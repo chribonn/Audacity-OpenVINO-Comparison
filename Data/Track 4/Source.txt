@@ -1,0 +1,30 @@
+0.000000	7.220000	 A Nonsense Alphabet by Edward Lear. This is a LibriVox recording. All LibriVox recordings
+7.220000	14.300000	 are in the public domain. For more information or to volunteer, please visit libriVox.org.
+14.300000	18.920000	 A Nonsense Alphabet by Edward Lear.
+18.920000	28.640000	 A. A was once an apple pie, Pidy, Widy, Tidy, Pidy, Nice insidy, Apple Pie!
+29.880000	38.440000	 B. B was once a little bear, Beary, Wary, Hairy, Beary, Taky cary, Little bear!
+38.440000	47.640000	 C. C was once a little cake, Caky, Baky, Maky, Caky, Taky Caky, Little Cake!
+47.640000	56.980000	 D. D was once a little doll, Dolly, Molly, Polly, Nolly, Nursy Dolly, Little Doll!
+59.760000	66.720000	 E. E was once a little eel, Eely, Weely, Peely, Eely, Twirly, Tweedy, Little Eel!
+66.720000	76.520000	 F. F was once a little fish, Fishy, Wishy, Squishy, Fishy, In a Dishy, Little Fish!
+76.520000	86.760000	 G. G was once a little goose, Goosy, Moosy, Boosy, Goosey, Waddly-woosy, Little Goose!
+89.640000	95.900000	 H. H was once a little hen, Henny, Chenny, Tenny, Henny, Eggsy-any, Little Hen!
+95.900000	105.340000	 I. I was once a bottle of ink, Inky, Dinky, Thinky, Inky, Black Minky, Bottle of Ink!
+105.340000	115.540000	 J. J was once a jar of jam, Jammy, Mammy, Clammy, Jammy, Sweety-Swammy, Jar of Jam!
+119.520000	126.280000	 K. K was once a little kite, Kity, Whity, Flighty, Kity, Out of sighty, Little Kite!
+126.280000	135.480000	 L. L was once a little lark, Larky, Marky, Harky, Larky, In the Parky, Little Lark!
+135.480000	145.000000	 M. M was once a little mouse, Mousey, Bousey, Sousy, Mousy, In the Housy, Little Mouse!
+149.400000	155.460000	 N. N was once a little needle, Needly, Tweedly, Threedly, Needly, Wisky-wheedly, Little Needle!
+155.460000	165.240000	 O. O was once a little owl, Owly, Prowly, Howly, Owly, Browny fowly, Little Owl!
+165.240000	175.620000	 P. P was once a little pump, Pumpy, Slumpy, Flumpy, Pumpy, Dumpy, Thumpy, Little Pump!
+179.280000	185.660000	 Q. Q was once a little quail, Quaily, Faily, Daily, Quaily, Stumpy-taily, Little Quail!
+185.660000	196.280000	 R. R was once a little rose, Rosy, Posy, Nosy, Rosy, Bows-y - grows-y, Little Rose!
+196.280000	206.860000	 S. S was once a little shrimp, Shrimpy, Nimpy, Flimpy, Shrimpy, Jumpy-jimpy, Little Shrimp!
+209.160000	216.080000	 T. T was once a little thrush, Thrushy, Hushy, Bushy, Thrushy, Flitty-Flushy, Little Thrush!
+216.080000	225.140000	 U. U was once a little urn, Urny, Burny, Turny, Urny, Bubbly-burny, Little Urn!
+225.140000	235.380000	 V. V was once a little vine, Viny, Winy, Twiny, Viny, Twisty-twiny, Little Vine!
+239.040000	245.040000	 W. W was once a whale, Whaly, Scaly, Shaly, Whaly, Tumbly-taily, Mighty Whale!
+245.040000	256.420000	 X. X was once a great king Xerxes, Xerxy, Perxy, Turxy, Xerxy, Linxy Lurxy, Great King Xerxes!
+256.420000	266.300000	 Y. Y was once a little yew, Yewdy, Fewdy, Crudy, Yewdy, Growdy, grewdy, Little Yew!
+268.920000	276.900000	 Z. Z was once a piece of zinc, Tinky, Winky, Blinky, Tinky, Tinkly Minky, Piece of Zinc!
+276.900000	279.220000	 End of alphabet.

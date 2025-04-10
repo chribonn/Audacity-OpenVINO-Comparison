@@ -1,0 +1,7 @@
+0.000000	9.560000	 I'm going to walk over the process to download VMware Workstation Pro.
+9.560000	15.340000	 A few months ago, VMware was acquired by Broadcom,
+15.340000	25.600000	 and Broadcom, soon after, announced that VMware Workstation and Fusion were free for private use.
+25.600000	34.080000	 To download these products, you need to register with Broadcom,
+34.080000	45.320000	 and if you're not registered, go to the Broadcom website,
+45.320000	55.320000	 click on Support and Services, click on Downloads
+55.320000	65.437438	 and Support, Customer Service Portal, and here you have Register and Login.

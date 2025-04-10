@@ -1,0 +1,21 @@
+The Internet Archive is an American non-profit organization founded in 1996 by Brewster Kahle that runs a digital library website, archive.org. It provides free access to collections of digitized media including websites, software applications, music, audiovisual, and print materials. The Archive also advocates a free and open Internet. Its mission is committing to provide "universal access to all knowledge".
+
+The Internet Archive allows the public to upload and download digital material to its data cluster, but the bulk of its data is collected automatically by its web crawlers, which work to preserve as much of the public web as possible. Its web archive, the Wayback Machine, contains hundreds of billions of web captures. The Archive also oversees numerous book digitization projects, collectively one of the world's largest book digitization efforts.
+
+History
+
+Headquarters in Building 116 of the Presidio of San Francisco in 2008
+
+Brewster Kahle founded the Archive in May 1996, around the same time that he began the for-profit web crawling company Alexa Internet. The earliest known archived page on the site was saved on May 10, 1996, at 2:42 pm UTC (7:42 am PDT). By October of that year, the Internet Archive had begun to archive and preserve the World Wide Web in large amounts. The archived content became more easily available to the general public in 2001, through the Wayback Machine.
+
+In late 1999, the Archive expanded its collections beyond the web archive, beginning with the Prelinger Archives. Now, the Internet Archive includes texts, audio, moving images, and software. It hosts a number of other projects: the NASA Images Archive, the contract crawling service Archive-It, and the wiki-editable library catalog and book information site Open Library. Soon after that, the Archive began working to provide specialized services relating to the information access needs of the print-disabled; publicly accessible books were made available in a protected Digital Accessible Information System (DAISY) format.
+
+According to its website:
+
+    "Most societies place importance on preserving artifacts of their culture and heritage. Without such artifacts, civilization has no memory and no mechanism to learn from its successes and failures. Our culture now produces more and more artifacts in digital form. The Archive's mission is to help preserve those artifacts and create an Internet library for researchers, historians, and scholars."
+
+In August 2012, the Archive announced that it had added BitTorrent to its file download options for more than 1.3 million existing files, and all newly uploaded files. This method is the fastest means of downloading media from the Archive, as files are served from two Archive data centers, in addition to other torrent clients which have downloaded and continue to serve the files.
+
+The Wayback Machine is fighting for universal access to quality information. The Internet Archive, which runs this project, relies on online donations averaging about $15 to help us keep the record straight. We'd be deeply grateful if you'd join the one in a thousand users that support us financially.
+
+We understand that not everyone can donate right now, but if you can afford to contribute this Friday, we promise it will be put to good use. Our resources are crucial for knowledge lovers everywhere—so if you find all these bits and bytes useful, please pitch in.
