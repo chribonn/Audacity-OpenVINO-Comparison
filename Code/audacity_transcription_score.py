@@ -22,8 +22,6 @@ def print_and_log(text, filename="output.md"):
 
 
 def ignore_timings(file_content):
-    # translator = str.maketrans('', '', '.,')
-    
     result = []
     for line in file_content.splitlines():
         # Split the line by tabs
@@ -57,7 +55,7 @@ if __name__ == "__main__":
         print(f"Error: {e}")
         sys.exit(1)
 
-    translator = str.maketrans('', '', '.,')
+    translator = str.maketrans('', '', '.,"')
     source_text_only = ignore_timings(source_content)
     
     cnt = 1

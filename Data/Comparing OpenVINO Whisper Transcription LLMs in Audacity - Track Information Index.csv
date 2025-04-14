@@ -1,0 +1,15 @@
+Track Name,Type,Bit rate (kbps),Channels,Sample rate (kHz),Duration,Process Order,Notes
+Track 1,MP3,79,2 (stereo),48.000,00:01:05,"base (1.0), small (3.8), medium (10.9), large-v3 (19.7)",
+Track 2,OGG,1411,2 (stereo),44.100,00:00:22,"large-v3 (18.5), medium (9.7), small (3.6), base (1.6)",
+Track 3,FLAC,401,,,00:03:57,"medium (51.2), small (18.9), large-v3 (2:20:00), base (8.2)",TTSSource.txt is the text fed into the TTS Engine
+Track 4,MP3,128,1 (mono),44.100,00:04:43,"large-v3 (2:00:00), base (11.2), medium (1:04:0), small (37.2)",Source : https://www.archive.org/download/soup_alphabets_002_0809_librivox/alphabets002_03_nonsense2_arb.mp3
+Track 5,MP3,16,1 (mono),11.025,00:04:16,"small (24.9), large-v3 (1:57.9), base (10.6), medium (1:05.0)",TWIT Security Now Episode #790 | 27 Oct 2020 https://www.grc.com/sn/past/2020.htm
+Track 6,MP3,192,2 (stereo),44.100,00:04:48,"medium (1:01.9), small (21.9), large-v3 (1:53.9), base (9.6)",https://learnenglish.britishcouncil.org/general-english/audio-zone/beating-stress
+Track 7,WAV,768,1 (mono),48.000,00:02:19,"base (4.5), medium (34.0), small (11.8), large-v3 (46.6)","University of Edinburgh. School of Philosophy, Psychology, and Language Sciences. Department of Linguistics and English Language
+https://datashare.ed.ac.uk/handle/10283/392 (R0002.wav)"
+Track 8,WAV,768,1 (mono),48.000,00:02:16,"base (4.2), large-v3 (1:38.3), medium (29.6), small (12.0)","University of Edinburgh. School of Philosophy, Psychology, and Language Sciences. Department of Linguistics and English Language
+https://datashare.ed.ac.uk/handle/10283/392 (R0006.wav)"
+Track 9,WAV,768,1 (mono),48.000,00:01:54,"large-v3 (1:15.8), small (8.4), medium (32.9), base (3.2)","University of Edinburgh. School of Philosophy, Psychology, and Language Sciences. Department of Linguistics and English Language
+https://datashare.ed.ac.uk/handle/10283/392 (R0011.wav)"
+Track 10,WAV,768,1 (mono),48.000,00:02:13,"small (12.0), medium (31.1), base (4.5), large-v3 (1:02.6)","University of Edinburgh. School of Philosophy, Psychology, and Language Sciences. Department of Linguistics and English Language
+https://datashare.ed.ac.uk/handle/10283/392 (R0299.wav)"
